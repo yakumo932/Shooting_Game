@@ -13,7 +13,7 @@ const GAME_SPEED = 1000 / 60;
 
 //画面サイズ
 const SCREEN_W = 320; //320; //180;(スマホサイズ)
-const SCREEN_H = 330; //300; //320;
+const SCREEN_H = 300; //300; //320;
 
 //キャンバスサイズ
 const CANVAS_W = SCREEN_W * 2;
